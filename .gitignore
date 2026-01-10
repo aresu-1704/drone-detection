@@ -44,7 +44,6 @@ datasets/
 *.jpg
 *.jpeg
 *.png
-*.gif
 *.bmp
 
 # Logs
