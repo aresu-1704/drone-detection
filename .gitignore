@@ -38,24 +38,6 @@ ENV/
 .ipynb_checkpoints
 *.ipynb
 
-# Model files (uncomment if you don't want to track models)
-# *.pt
-# *.pth
-# *.weights
-# *.onnx
-
-# Output files
-outputs/*
-!outputs/.gitkeep
-results/*
-runs/*
-
-# Video files
-demo_videos/*.mp4
-demo_videos/*.avi
-demo_videos/*.mov
-!demo_videos/.gitkeep
-
 # Data
 data/
 datasets/
