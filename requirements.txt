@@ -1,0 +1,28 @@
+# Ultralytics YOLO
+ultralytics>=8.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Deep Learning - CUDA 12.x (compatible with CUDA 13.1)
+# Install with: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Video Processing
+moviepy>=1.0.3
+
+# Utilities
+PyYAML>=6.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+
+# Optional: For better performance
+scipy>=1.10.0
